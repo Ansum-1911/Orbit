@@ -1,0 +1,12 @@
+{
+  "name": "orbit-planner",
+  "version": "0.6.0",
+  "description": "ORBIT: a local-first daily planner for students (single-file static web app).",
+  "private": false,
+  "scripts": {
+    "test": "node tests/run.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0"
+  }
+}
